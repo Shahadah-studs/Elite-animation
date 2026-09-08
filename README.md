@@ -1,16 +1,14 @@
-# EagleAnimation
+# EliteAnimation
 
-[![Official Website](docs/tags/website.svg)](https://eagle-animation.com/) [![Web App](docs/tags/webapp.svg)](https://app.eagle-animation.com/)
-[![Discord](docs/tags/discord.svg)](https://discord.gg/S9R6bXeU7m) [![Brickfilms.com](docs/tags/brickfilms.svg)](https://brickfilms.com/)
 
-**EagleAnimation** is an awesome, free and open-source stop motion animation software. It is available for Windows, macOS, Linux and also works with any web browser. It's a great alternative to _Stop
+**EliteAnimation** is an awesome, free and open-source stop motion animation software. It is available for Windows, macOS, Linux and also works with any web browser. It's a great alternative to _Stop
 Motion Studio_, _Dragon Frame_, Zu3D, AnimaShooter and _Boats Animator_.
 
 💬 **Join our [Discord community](https://discord.gg/S9R6bXeU7m)!** Get help with the app, share your animations, suggest features and chat with other animators and the team.
 
 ![Eagle Animation in use by Gwen Movies and Nanomega](docs/imgs/img_5.jpg)
 
-👉 _This project is supported by Brick à Brack, the non-profit organization that owns [Brickfilms.com](https://brickfilms.com/) - The biggest brickfilming community, you can join us, it's free and
+👉 _This project is supported by Shahadah Studios ELite, the non-profit organization that owns [BLoxdWorldCode](https://bloxdworldcode.vercel.app/) - The biggest brickfilming community, you can join us, it's free and
 without ads!_ 🎥
 
 ## Features
